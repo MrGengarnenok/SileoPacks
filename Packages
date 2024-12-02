@@ -1,1 +1,11 @@
-"Package: com.yourname.package" 
+Package: *
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Описание пакета *
+Maintainer: Your Name <your-email@example.com>
+Section: Utilities
+Depends: 
+Filename: deb/*.deb
+Size: 
+MD5Sum: 
+
